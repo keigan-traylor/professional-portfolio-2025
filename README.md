@@ -1,4 +1,4 @@
-# Professional Portfolio — Machine Learning, AWS Automation, PowerShell & Advanced Python
+# Professional Portfolio — Machine Learning, AWS Automation, PowerShell & Python
 
 This repository contains four professional exhibition projects designed to showcase technical skills in ML, cloud automation, cybersecurity automation, and Python engineering.
 
